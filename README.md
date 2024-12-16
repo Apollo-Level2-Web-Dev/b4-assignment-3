@@ -413,3 +413,29 @@ By consistently implementing these error handling mechanisms, we ensure a smooth
   
 
 #
+
+## 📤 **Submission Guidelines:**
+
+- Submit a well-documented codebase with clear comments.
+- Make sure to add a README file that explains how to set up and use the application. In the README, include details like the project name, live URL, features, technology used, and other important information. Try to make it look professional by doing some research and making it appealing.
+
+## What You Need to Provide:
+
+1. Live Deployment Link (Server)
+   
+2. GitHub Repository Links (Server)
+
+3. Project Overview Video. (A brief video providing an overview of the project.)
+
+
+### ⏰ **Deadline:**
+
+- 60 Marks: 
+- 50 Marks: 
+- After ___ 30 Marks Deadline
+
+## 🚫 **Important Note:**
+
+Plagiarism will not be tolerated. Ensure that the code you submit is your work. Any instances of plagiarism will result in 0 Marks.
+
+---
