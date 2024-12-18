@@ -425,14 +425,16 @@ By consistently implementing these error handling mechanisms, we ensure a smooth
    
 2. GitHub Repository Links (Server)
 
-3. Project Overview Video. (A brief video providing an overview of the project.)
+3. Admin login crediential (email and password)
+
+4. Project Overview Video. (A brief video providing an overview of the project.)
 
 
 ### ⏰ **Deadline:**
 
-- 60 Marks: 
-- 50 Marks: 
-- After ___ 30 Marks Deadline
+- 60 Marks: 21 Dec, 2024 11:59PM
+- 50 Marks: 22 Dec, 2024 11:59PM
+- After 22 Dec, 2024 11:59PM 30 Marks Deadline
 
 ## 🚫 **Important Note:**
 
