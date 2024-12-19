@@ -52,7 +52,7 @@ The goal of this assignment is to develop a backend for a blogging platform wher
 ### 3\. Blog API
 
 *   A public API for reading blogs:
-    *   Includes blog title, content, and author name.
+    *   Includes blog title, content, author details & other necessary information.
     *   Supports **search**, **sorting**, and **filtering** functionalities.
 
 * * *
