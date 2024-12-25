@@ -288,7 +288,7 @@ The goal of this assignment is to develop a backend for a blogging platform wher
 *   `search`: Search blogs by title or content (e.g., `search=blogtitle`).
 *   `sortBy`: Sort blogs by specific fields such as `createdAt` or `title` (e.g., `sortBy=title`).
 *   `sortOrder`: Defines the sorting order. Accepts values `asc` (ascending) or `desc` (descending). (e.g., `sortOrder=desc`).
-*   `filter`: Filter blogs by author ID (e.g., `author=authorId`).
+*   `filter`: Filter blogs by author ID (e.g., `filter=authorId`).
 
   
 
